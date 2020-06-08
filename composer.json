@@ -9,5 +9,12 @@
             "email": "mahbubsprint310@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "BJIT\\SNL\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
 }

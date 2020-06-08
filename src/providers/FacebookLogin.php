@@ -1,6 +1,6 @@
 <?php
+namespace BJIT\SNL;
 require_once 'vendor/autoload.php';
-
 class FacebookLogin
 {
     protected $config;
