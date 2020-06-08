@@ -1,5 +1,5 @@
 <?php
-namespace BJIT\SNL;
+namespace Facebook;
 require_once 'vendor/autoload.php';
 class FacebookLogin
 {

@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "BJIT\\SNL\\": "src"
+            "Facebook": "src/providers"
         }
     },
     "require": {
