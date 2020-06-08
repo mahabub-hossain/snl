@@ -1,5 +1,5 @@
 <?php
-namespace Facebook;
+namespace FacebookLogin;
 require_once 'vendor/autoload.php';
 class FacebookLogin
 {
